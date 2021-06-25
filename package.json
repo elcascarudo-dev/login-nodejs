@@ -1,7 +1,7 @@
 {
   "name": "rest-login",
   "version": "1.0.0",
-  "description": "Challenger Alkeme - Node,JS",
+  "description": "Login - Node,JS",
   "main": "index.js",
   "scripts": {
     "start:dev": "nodemon index.js",
